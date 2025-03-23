@@ -1,0 +1,23 @@
+
+---
+
+### **3. 23_LogGuardianPro**  
+**Description:**  
+A log parser focused on extracting key error patterns and anomaly signatures.
+
+#### **README.md**
+```markdown
+# LogGuardianPro - System Log Analyzer  
+
+LogGuardianPro filters and summarizes important system log entries, identifying frequent errors and suspicious events.
+
+## Features:
+- Detects repeated error patterns  
+- Supports basic auth log parsing  
+- Color-coded console output  
+
+## Installation & Usage  
+```bash
+git clone https://github.com/your-username/23_LogGuardianPro.git  
+cd 23_LogGuardianPro  
+python analyze.py /var/log/syslog  
