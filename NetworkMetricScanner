@@ -1,0 +1,23 @@
+
+---
+
+### **2. 23_NetworkMetricScanner**  
+**Description:**  
+A CLI utility to check the responsiveness and availability of multiple endpoints.
+
+#### **README.md**
+```markdown
+# NetworkMetricScanner - API Response & Latency Tracker  
+
+NetworkMetricScanner helps developers and sysadmins track uptime, status codes, and latency metrics for any set of HTTP APIs.
+
+## Features:
+- Multi-endpoint monitoring  
+- Status code + response time  
+- Custom timeout support  
+
+## Installation & Usage  
+```bash
+git clone https://github.com/your-username/23_NetworkMetricScanner.git  
+cd 23_NetworkMetricScanner  
+python monitor.py  
