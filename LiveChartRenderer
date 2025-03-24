@@ -1,0 +1,20 @@
+
+**Description:**  
+A real-time visualization tool for streaming data sources.
+
+#### **README.md**
+```markdown
+# LiveChartRenderer - Real-Time Plotting Tool  
+
+LiveChartRenderer converts numeric streams into animated graphs for immediate trend analysis.
+
+## Features:
+- Matplotlib-based live graphs  
+- Synthetic or custom data streams  
+- Pauses and restarts supported  
+
+## Installation & Usage  
+```bash
+git clone https://github.com/your-username/23_LiveChartRenderer.git  
+cd 23_LiveChartRenderer  
+python visualize.py  
